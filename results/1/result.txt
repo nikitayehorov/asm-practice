@@ -1,0 +1,1 @@
+Програма успішно виконана на Raspberry Pi 5. Вивід: Hello from Assembly!
